@@ -3,9 +3,10 @@ These exercises are designed to complement the [Ruby Basic lessons](https://www.
 
 ### Usage
 
-#Làm bài tập trong method theo từng phần đã học.
-#Xóa `x` từ `xit`trong spec.
-#Chạy bundle exec rspec spec/tên file bài tập: `bundle exec rspec spec/numbers_exercises_spec.rb` 
+1. Làm bài tập trong method theo từng phần đã học.
+2. Xóa `x` từ `xit`trong spec.
+3. Chạy bundle exec rspec spec/tên file bài tập: `bundle exec rspec spec/numbers_exercises_spec.rb`
+4. Hoặc `bundle exec rspec`
 
 
 1. First change directory into the lesson directory, for example `cd 1_data_types`.
